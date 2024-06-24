@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "AI大模型的使用（入门教程）"
+subtitle:   ""
+date:       2024-06-24 
+author:     "luopojunzi"
+header-img: "img/post-bg-digital-native.jpg"
+catalog: true
+tags:
+    - AI
+---
+
 # 免责声明
 
 本免责声明适用于 GitHub 上所有落魄君子（luopojunzi）的项目（以下简称“该项目”）
