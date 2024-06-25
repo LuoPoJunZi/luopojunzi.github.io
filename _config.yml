@@ -1,11 +1,11 @@
 # Site settings
 title: 落魄君子 Blog
 SEOTitle: 落魄君子的博客 | Luopojunzi Blog
-header-img: img/home-bg.jpg
+header-img: img/yuanshen/温迪.jpg
 email: luopojunzi@gmail.com
 description: "这里是 @落魄君子 的个人博客，记录一下学习的趣事 | 加油！"
 keyword: "落魄君子, Luopojunzi, 博客, 个人网站"
-url: "https://luopojunzi.github.io" # your host, for absolute URL
+url: "https://blog.luopojunzi.com/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
