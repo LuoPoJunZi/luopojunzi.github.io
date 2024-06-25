@@ -4,7 +4,7 @@ title:      "AI大模型的使用（入门教程）"
 subtitle:   ""
 date:       2024-06-24 
 author:     "luopojunzi"
-header-img: "img/post-bg-digital-native.jpg"
+header-img: "img/yuanshen/3周年.jpg"
 catalog: true
 tags:
     - AI
