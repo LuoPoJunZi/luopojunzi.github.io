@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 #weibo_username: luopojunzi
-#zhihu_username: 落魄君子
+zhihu_username: luo-po-jun-zi
 github_username: LuoPoJunZi
 twitter_username: luopojunzi
 youtube_username: luopojunzi
