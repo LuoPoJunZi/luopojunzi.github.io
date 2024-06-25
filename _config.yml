@@ -13,10 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: luopojunzi
-zhihu_username: 落魄君子
+#weibo_username: luopojunzi
+#zhihu_username: 落魄君子
 github_username: LuoPoJunZi
 twitter_username: luopojunzi
+youtube_username: luopojunzi
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
