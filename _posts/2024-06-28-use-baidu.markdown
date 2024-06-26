@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "百度网盘提升下载速度（PC端）"
+subtitle:   " \"快去试试吧！\""
+date:       2024-06-28 12:00:00
+author:     "落魄君子"
+header-img: "img/yuanshen/帝君.png"
+catalog: true
+tags:
+    - 使用技巧
+---
+
+
+## <br><b>百度网盘几百**K**的下载速度是否在困扰着你，接下来看看如何提升下载速度吧！</b>
+
+### 1. 这是我们的下载界面，速度只有几百KB
+
+![](img/in-post/blog-one/百度-01.png)
+
+### 2. 点击右上角的“三个点”，然后点击“设置”
+
+![](img/in-post/blog-one/百度-02.png)
+
+### 3. 点击左侧的“传输” 
+
+![](img/in-post/blog-one/百度-03.png)
+
+### 4. 点击下面的“优化速率”，然后点击“去开启该功能” 
+
+![](img/in-post/blog-one/百度-04.png)
+
+### 5. 在弹出的界面中，点击同意，下面是开启后的下载速度 
+
+![](img/in-post/blog-one/百度-05.png)
+
+
+## 记得分享给你的好朋友！
+
