@@ -4,7 +4,7 @@ title:      "表白文案"
 subtitle:   " \"快拿去表白吧\""
 date:       2024-01-18 12:00:00
 author:     "落魄君子"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/yuanshen/万叶.png"
 catalog: true
 tags:
     - 文案
