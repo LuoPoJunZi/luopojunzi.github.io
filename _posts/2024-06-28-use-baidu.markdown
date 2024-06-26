@@ -4,7 +4,7 @@ title:      "百度网盘提升下载速度（PC端）"
 subtitle:   " \"快去试试吧！\""
 date:       2024-06-28 12:00:00
 author:     "落魄君子"
-header-img: "img/yuanshen/帝君.png"
+header-img: "img/yuanshen/帝君.jpg"
 catalog: true
 tags:
     - 使用技巧
